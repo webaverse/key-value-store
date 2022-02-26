@@ -1,4 +1,4 @@
-const endpointUrl = 'https://local.webaverse.com/key-value-store/';
+const endpointUrl = 'https://webaverse.github.io/key-value-store/';
 
 export const connect = async () => {
   const iframe = document.createElement('iframe');
